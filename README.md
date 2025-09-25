@@ -9,7 +9,7 @@ Features
 - Encode and decode query parameters transparently.
 - Encode and decode path variables automatically.
 - Encode and decode request bodies with JSON support.
-- Integrates seamlessly with Spring MVC through custom annotations and argument resolvers.
+- Integrates seamlessly with Spring through custom annotations and argument resolvers.
 
 Usage
 -----
