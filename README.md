@@ -1,14 +1,14 @@
-Spring Encode-Decode Request Params
+Spring Encrypt-Decrypt Request Params
 ===================================
 
-Spring Encode-Decode Request Params is a Spring Boot project demonstrating how to encode and decode query parameters, path variables, and request bodies in controllers. It uses AES encryption with Base64 URL-safe encoding and custom Spring annotations to handle encoded input and output seamlessly. This project serves as a reference or starting point for implementing secure parameter handling in Spring applications.
+Spring Enrypt-Decrypt Request Params is a Spring Boot project demonstrating how to encrypt and decrypt query parameters, path variables, and request bodies in controllers. It uses AES encryption with Base64 URL-safe encrypting and custom Spring annotations to handle encrypted input and output seamlessly. This project serves as a reference or starting point for implementing secure parameter handling in Spring applications.
 
 Features
 --------
 
-- Encode and decode query parameters transparently.
-- Encode and decode path variables automatically.
-- Encode and decode request bodies with JSON support.
+- Encrypt and decrypt query parameters transparently.
+- Encrypt and Decrypt path variables automatically.
+- Encrypt and Decrypt request bodies with JSON support.
 - Integrates seamlessly with Spring through custom annotations and argument resolvers.
 
 Usage
